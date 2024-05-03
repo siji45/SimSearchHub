@@ -42,4 +42,11 @@ A usage example is provided at the end of the script, demonstrating how to use t
 - ▶️ `streamlit run app.py`
 - 🚨 Please make sure to install all necessary libraries before running, and it is recommended to run in a Python virtual environment.
 
+## Group Members Personal Emails
+- Siji Adisa: sijibomi.adisa@yahoo.com
+- Adharsh Madhusudan: adharshm98@gmail.com
+- Ming-Jen Chang: changmj052@gmail.com
+- Kushal Adity: kushaladity@gmail.com
+- Vinay Khandelwal: Vinay090597@gmail.com
+
 Feel free to explore and customize the scripts to fit your specific use case and data requirements. If you have any questions or encounter issues, don't hesitate to reach out for assistance. Happy searching! 🚀🔍✨
