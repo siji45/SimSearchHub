@@ -20,3 +20,5 @@ This repository contains publications and research contributions associated with
 ![Publications Screenshot](https://github.com/sijiadisa/SimSearchHub/assets/62917984/42b595e1-45aa-49f0-88a2-b1ebc9fe04b6)
 
 Feel free to explore the provided links for more details on each publication.
+
+[Back to Table of Contents](/README.md#table-of-contents)

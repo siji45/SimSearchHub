@@ -10,3 +10,5 @@ For model creation purposes, a subset of 60,000 images is utilized, distributed 
 - 12,000 images for validation.
 
 <img width="670" alt="Screen Shot 2024-05-17 at 3 28 31 PM" src="https://github.com/sijiadisa/SimSearchHub/assets/62917984/4201fbae-c325-43a1-ab10-b12e28073bc5">
+
+[Back to Table of Contents](/README.md#table-of-contents)
